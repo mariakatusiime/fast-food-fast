@@ -45,11 +45,11 @@ label {
 
 }
 .signinform{
-	display:none;
+	display:block;
 }
 .form_a
 {
-width:300px;
+width:330px;
 margin-left:320px;
 padding:10px;
 
@@ -62,11 +62,11 @@ width: 100%;
     resize: vertical;
 }
 .terms{
-	font-size:12px;
+	font-size:15px;
 }
 input[type="submit"]
 {
-width:100px;
+width:150px;
 height:40px;
 border:none;
 border-radius:5px;
@@ -100,8 +100,8 @@ font-weight:bold;
 	
 }
 .fdimg{
-	width:500px;
-	height:300px;
+	width:800px;
+	height:500px;
 	border-radius: 50%;
 	
 	
@@ -132,7 +132,7 @@ aside{
     clear: both;
 }
 .form_label{
-	font-size:18px;
+	font-size:28px;
 	font-weight:bold;
 }
 
